@@ -27,7 +27,7 @@ function init(){
 
   info.addTo(map);
 
-  cartodb.createLayer(map, layerUrl)
+  cartodb.createLayer(map, layerUrl, { https: true })
     .addTo(map)
     .on('done', function(layer) {
     }).on('error', function() {
