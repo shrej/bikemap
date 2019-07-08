@@ -1,4 +1,4 @@
 # Bikemap
-This project uses a Carto map to display Indianapolis Bike share locations
+This project displays Indianapolis Bike share locations
 
 https://shrej.github.io/bikemap/
